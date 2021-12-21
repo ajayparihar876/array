@@ -1,0 +1,2 @@
+# array
+sum of array
